@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kikolaranjeira&orange=for-the-badge" alt="kikolaranjeira" /> </p>
-<h3 align="center">Code is the invisible thread that weaves together the fabric of our digital existence, empowering humanity to transcend boundaries and shape the future</h3>
+<h3 align="center">Code is the invisible thread that weaves together the fabric of our digital existence, empowering humanity to transcend boundaries and shape the future.</h3>
 <h2 align="center">👋Hello, I'm from Portugal</h2>
 
 <h3 align="left">Connect with me:</h3>
